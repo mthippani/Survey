@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
- * User: Narasimha
+ * User: Mahesh
  */
 @Entity
 @Table(name="questions")
