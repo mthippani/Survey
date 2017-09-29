@@ -1,7 +1,7 @@
 package com.survey.domain;
 
 /**
- * User: Narasimha
+ * User: Mahesh
  */
 import javax.persistence.Column;
 import javax.persistence.Entity;
